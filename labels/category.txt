@@ -1,0 +1,5 @@
+clapping
+dancing
+musical_instruments
+singing
+travel
